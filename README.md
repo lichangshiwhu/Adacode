@@ -49,7 +49,3 @@ To run all four paper models, omit the model argument:
 ```bash
 CACHE_IMPLS=float11 bash run_lossless_cache_length_sweep.sh
 ```
-
-## Notes
-
-- The repository also contains vLLM-side validation in `vllm_version/`.
